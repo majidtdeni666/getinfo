@@ -31,6 +31,10 @@ GETINFO - Simple Information Toolkit
 -  bash install.sh
 ```
 
+- Uninstallation
+- termux: ```rm -rf $PREFIX/bin/getinfo```
+```
+
 ### Tools Overview
 |Termux Android|
 | ------------ |
