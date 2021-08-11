@@ -30,10 +30,7 @@ GETINFO - Simple Information Toolkit
 -  cd getinfo
 -  bash install.sh
 ```
-- Installation on kali linux
-```bash
-- apt-get install wget && wget https://raw.githubusercontent.com/majidtdeni666/getinfo/main/installkali.sh && bash installkali.sh
-```
+
 - Uninstallation
 - termux: ```rm -rf $PREFIX/bin/sigit```
 - kali  : ```rm -rf /usr/local/bin/sigit```
