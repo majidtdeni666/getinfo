@@ -28,7 +28,6 @@ GETINFO - Simple Information Toolkit
 -  pkg install git
 -  git clone https://github.com/majidtdeni666/getinfo.git
 -  cd getinfo
--  chmod +x *
 -  bash install.sh
 -  run python3 get.py
 ```
