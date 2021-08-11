@@ -1,4 +1,4 @@
-<img title="GET-INFO" src="https://img.shields.io/badge/CODENAME%20-GET-INFO-SCRIPT?colorA=grey&colorB=green&style=for-the-badge"> <img title="GET-INFO" src="https://img.shields.io/badge/VERSION%20-1.0-SCRIPT?colorA=grey&colorB=green&style=for-the-badge"> 
+<img title="getinfo" src="https://img.shields.io/badge/CODENAME%20-getinfo-SCRIPT?colorA=grey&colorB=green&style=for-the-badge"> <img title="getinfo" src="https://img.shields.io/badge/VERSION%20-1.0-SCRIPT?colorA=grey&colorB=green&style=for-the-badge"> 
 <img src="https://github.com/majidtdeni666/getinfo/blob/main/src/Screenshot_2021-04-26_01-22-35.jpeg">
 GETINFO - Simple Information Toolkit
 
