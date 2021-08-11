@@ -23,4 +23,4 @@ echo -e $b">"$w" installing modules: "$g"googlesearch-python"$w
 pip3 install googlesearch-python
 echo -e $b">"$w" successfully installing dependencies"
 wget -q https://raw.githubusercontent.com/majidtdeni666/getinfo/main/get.py -O $PREFIX/bin/getinfo && chmod +x $PREFIX/bin/getinfo
-echo -e $b">"$w" use command "$g"getinfo"$w" for start the console"
+echo -e $b">"$w" use command "$g"python3 get.py"$w" for start the console"
