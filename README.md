@@ -34,7 +34,7 @@ GETINFO - Simple Information Toolkit
 ### Tools Overview
 |Termux Android|
 | ------------ |
-|![f](https://raw.githubusercontent.com/majidtdeni666/getinfo/main/src/2.jpg)|
+|![f](https://github.com/majidtdeni666/getinfo/blob/main/src/2.jpg)|
 
 - <i>picture by [@majidtdeni666](https://instagram.com/majidtdeni)</i>
 ### Credits
