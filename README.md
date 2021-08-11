@@ -33,7 +33,6 @@ GETINFO - Simple Information Toolkit
 
 - Uninstallation
 - termux: ```rm -rf $PREFIX/bin/getinfo```
-```
 
 ### Tools Overview
 |Termux Android|
