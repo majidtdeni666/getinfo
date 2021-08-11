@@ -31,10 +31,6 @@ GETINFO - Simple Information Toolkit
 -  bash install.sh
 ```
 
-- Uninstallation
-- termux: ```rm -rf $PREFIX/bin/sigit```
-- kali  : ```rm -rf /usr/local/bin/sigit```
-
 ### Tools Overview
 | Kali Linux | Termux Android	|
 | ------------  | ------------ |
