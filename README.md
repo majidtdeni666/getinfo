@@ -30,6 +30,7 @@ GETINFO - Simple Information Toolkit
 -  cd getinfo
 -  chmod +x *
 -  bash install.sh
+-  run python3 get.py
 ```
 
 - Uninstallation
