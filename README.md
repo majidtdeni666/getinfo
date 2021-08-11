@@ -32,10 +32,10 @@ GETINFO - Simple Information Toolkit
 ```
 
 ### Tools Overview
-| Kali Linux | Termux Android	|
-| ------------  | ------------ |
-|![Index](https://raw.githubusercontent.com/termuxhackers-id/SIGIT/main/src/1.jpg)|![f](https://raw.githubusercontent.com/termuxhackers-id/SIGIT/main/src/2.jpg)|
+|Termux Android|
+| ------------ |
+|![f](https://raw.githubusercontent.com/majidtdeni666/getinfo/main/src/2.jpg)|
 
-- <i>picture by [@androidmalware](https://instagram.com/androidmalware)</i>
+- <i>picture by [@majidtdeni666](https://instagram.com/majidtdeni)</i>
 ### Credits
-Copyright © 2021 by <a href="https://facebook.com/termuxhackers.id">@termuxhackers.id</a>
+Copyright ©2077 by <a href="https://facebook.com/deni6660">@majidtdeni666</a>
