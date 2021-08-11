@@ -22,5 +22,5 @@ pip3 install email-validator
 echo -e $b">"$w" installing modules: "$g"googlesearch-python"$w
 pip3 install googlesearch-python
 echo -e $b">"$w" successfully installing dependencies"
-wget -q https://github.com/majidtdeni666/getinfo/blob/main/get.py -O $PREFIX/bin/getinfo && chmod +x $PREFIX/bin/getinfo
-echo -e $b">"$w" use command "$g"get"$w" for start the console"
+wget -q https://github.com/majidtdeni666/getinfo/blob/main/get.py -O $PREFIX/bin/getinfo && chmod 700 $PREFIX/bin/getinfo
+echo -e $b">"$w" use command "$g"getinfo"$w" for start the console"
