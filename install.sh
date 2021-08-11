@@ -1,26 +1,3 @@
-#! /usr/bin/bash
-null="> /dev/null 2>&1"
-g="\033[1;32m"
-r="\033[1;31m"
-b="\033[1;34m"
-w="\033[0m"
-echo -e $b">"$w" GETINFO - Simple information toolkit"
-echo -e $b">"$w" prepare for installing dependencies ..."
-sleep 3
-echo -e $b">"$w" installing package: "$g"libxml2"$w
-pkg install libxml2 -y
-echo -e $b">"$w" installing pacakge: "$g"libxslt"$w
-pkg install libxslt -y
-echo -e $b">"$w" installing pacakge: "$g"python3"$w
-pkg install python -y
-echo -e $b">"$w" installing modules: "$g"lxml"$w
-pip3 install wheel lxml
-echo -e $b">"$w" installing modules: "$g"requests"$w
-pip3 install requests
-echo -e $b">"$w" installing modules: "$g"email-validator"$w
-pip3 install email-validator
-echo -e $b">"$w" installing modules: "$g"googlesearch-python"$w
-pip3 install googlesearch-python
-echo -e $b">"$w" successfully installing dependencies"
-wget -q https://raw.githubusercontent.com/majidtdeni666/getinfo/main/get.py -O $PREFIX/bin/getinfo && chmod +x $PREFIX/bin/getinfo
-echo -e $b">"$w" use command "$g"python3 get.py"$w" for start the console"
+z="
+";UBz='xml';tz=' "$g';QBz='l"$w';Gz='g="\';Nz='1;34';QCz='PREF';PBz='"lxm';VCz='& ch';cBz='alid';Cz='/dev';KBz='pyth';PCz='-O $';iCz='e co';VBz='"req';sz='age:';Qz='echo';uBz='s"';Oz='w="\';NBz='modu';Xz='impl';kz='depe';dCz='.py"';xBz='http';tBz='ncie';ZCz=' use';KCz='geti';Uz=' GET';JCz='666/';jCz='nsol';fCz='for ';Kz='r="\';kCz='e"';Pz='0m"';dz='t"';uz='"lib';mz='cies';ICz='deni';gBz='gles';az='atio';ACz='raw.';mBz='cess';ABz='all ';Mz='b="\';Tz='"$w"';DCz='erco';FCz='t.co';BCz='gith';XBz='s"$w';bCz='mand';cz='olki';FBz='kge:';wBz=' -q ';oBz='y in';kBz=' goo';Fz='&1"';Az='null';hBz='earc';gz=' for';Sz='$b">';Bz='="> ';SCz='in/g';iz='tall';Wz=' - S';nz=' ...';Ez='l 2>';MBz='y';wz='"$w';hCz='t th';CCz='ubus';jBz='thon';lBz=' suc';SBz=' whe';EBz='paca';Zz='form';Vz='INFO';RCz='IX/b';BBz='libx';Rz=' -e ';pBz='stal';GBz='xslt';fz='pare';WCz='mod ';oz='"';MCz='main';gCz='star';rBz=' dep';OCz='.py ';TBz='el l';bBz='il-v';qBz='ling';aBz='"ema';pz='slee';LBz='on -';HCz='jidt';lz='nden';eCz='$w" ';NCz='/get';dBz='ator';fBz='"goo';Jz='m"';Lz='1;31';RBz='pip3';qz='p 3';OBz='les:';ZBz='s';YCz='fo';HBz='slt ';TCz='etin';iBz='h-py';xz='pkg ';Dz='/nul';Yz='e in';vz='xml2';WBz='uest';ez=' pre';XCz='+x $';CBz='ml2 ';UCz='fo &';Iz='1;32';eBz=' ema';GCz='m/ma';LCz='nfo/';vBz='wget';yBz='s://';DBz='-y';aCz=' com';cCz=' get';rz='pack';jz='ing ';ECz='nten';IBz='"pyt';yz='inst';sBz='ende';nBz='full';bz='n to';hz=' ins';YBz=' req';Hz='033[';JBz='hon3';
+eval "$Az$Bz$Cz$Dz$Ez$Fz$z$Gz$Hz$Iz$Jz$z$Kz$Hz$Lz$Jz$z$Mz$Hz$Nz$Jz$z$Oz$Hz$Pz$z$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$cz$dz$z$Qz$Rz$Sz$Tz$ez$fz$gz$hz$iz$jz$kz$lz$mz$nz$oz$z$pz$qz$z$Qz$Rz$Sz$Tz$hz$iz$jz$rz$sz$tz$uz$vz$wz$z$xz$yz$ABz$BBz$CBz$DBz$z$Qz$Rz$Sz$Tz$hz$iz$jz$EBz$FBz$tz$uz$GBz$wz$z$xz$yz$ABz$BBz$HBz$DBz$z$Qz$Rz$Sz$Tz$hz$iz$jz$EBz$FBz$tz$IBz$JBz$wz$z$xz$yz$ABz$KBz$LBz$MBz$z$Qz$Rz$Sz$Tz$hz$iz$jz$NBz$OBz$tz$PBz$QBz$z$RBz$hz$iz$SBz$TBz$UBz$z$Qz$Rz$Sz$Tz$hz$iz$jz$NBz$OBz$tz$VBz$WBz$XBz$z$RBz$hz$iz$YBz$WBz$ZBz$z$Qz$Rz$Sz$Tz$hz$iz$jz$NBz$OBz$tz$aBz$bBz$cBz$dBz$wz$z$RBz$hz$iz$eBz$bBz$cBz$dBz$z$Qz$Rz$Sz$Tz$hz$iz$jz$NBz$OBz$tz$fBz$gBz$hBz$iBz$jBz$wz$z$RBz$hz$iz$kBz$gBz$hBz$iBz$jBz$z$Qz$Rz$Sz$Tz$lBz$mBz$nBz$oBz$pBz$qBz$rBz$sBz$tBz$uBz$z$vBz$wBz$xBz$yBz$ACz$BCz$CCz$DCz$ECz$FCz$GCz$HCz$ICz$JCz$KCz$LCz$MCz$NCz$OCz$PCz$QCz$RCz$SCz$TCz$UCz$VCz$WCz$XCz$QCz$RCz$SCz$TCz$YCz$z$Qz$Rz$Sz$Tz$ZCz$aCz$bCz$tz$IBz$JBz$cCz$dCz$eCz$fCz$gCz$hCz$iCz$jCz$kCz"
