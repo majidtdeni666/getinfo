@@ -2,7 +2,7 @@
 # Author by @majidtdeni666
 # Support me with follow my facebook page https://www.facebook.com/deni6660
 # Disclaimer: please dont re-edit or recode the original source code !
-# Last update: 21/04/2021 - version 1.0
+# Last update: 12/08/2021 - version 1.0
 
 import os, re, sys, time, json, requests, textwrap, socket
 from email_validator import validate_email, EmailNotValidError
