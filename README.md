@@ -29,7 +29,7 @@ GETINFO - Simple Information Toolkit
 -  git clone https://github.com/majidtdeni666/getinfo.git
 -  cd getinfo
 -  bash install.sh
--  run python3 get.py
+-  run command by type getinfo
 ```
 
 - Uninstallation
