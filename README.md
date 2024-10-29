@@ -40,6 +40,6 @@ GETINFO - Simple Information Toolkit
 | ------------ |
 |![f](https://github.com/majidtdeni666/getinfo/blob/main/src/2.jpg)|
 
-- <i>picture by [@majidtdeni666](https://www.youtube.com/@kenichiro-yt)</i>
+- <i>picture by [@majidtdeni666](https://youtube.com/@KenichiroYT)</i>
 ### Credits
-Copyright ©2077 by <a href="https://www.youtube.com/@kenichiro-yt">@majidtdeni666</a>
+Copyright ©2077 by <a href="https://youtube.com/@KenichiroYT">@majidtdeni666</a>
